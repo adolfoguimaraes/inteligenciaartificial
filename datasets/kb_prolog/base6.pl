@@ -1,0 +1,9 @@
+traduzir(um,one).
+traduzir(dois,two).
+traduzir(tres,three).
+traduzir(quatro,four).
+traduzir(cinco,five).
+traduzir(seis,six).
+traduzir(sete,seven).
+traduzir(oito,eight).
+traduzir(nove,nine).

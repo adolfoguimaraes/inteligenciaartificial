@@ -3,3 +3,5 @@ solutions/
 correcoes/
 .DS_Store
 output/
+code/Temp.ipynb
+datasets/bayes_network2/
